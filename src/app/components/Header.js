@@ -10,6 +10,7 @@ export class Header extends React.Component {
               <li><a href="#">Home</a></li>
               <li><a href="#">Home2</a></li>
               <li><a href="#">Home3</a></li>
+              <li><a href="#">Home4</a></li>
             </ul>
           </div>
         </div>
